@@ -1,0 +1,1 @@
+java -javaagent:./java-agent/build/libs/java-agent.jar -jar ./build/libs/java-agent-demo-1.0-SNAPSHOT.jar
